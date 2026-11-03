@@ -1,0 +1,16 @@
+.products-page {
+  padding: 40px;
+  text-align: center;
+}
+
+.products-page h1 {
+  color: #0f172a;
+  margin-bottom: 30px;
+}
+
+.product-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
